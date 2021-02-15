@@ -1,3 +1,4 @@
+// React hook 사용 가이드
 import React, { useCallback, useState, useRef, useEffect } from 'react'
 
 const SimpleHabit = (props) => {
